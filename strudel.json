@@ -1,5 +1,5 @@
 {
-  "_base": "https://raw.githubusercontent.com/<YOUR-GH-USER>/<REPO>/main/samples/",
+  "_base": "https://raw.githubusercontent.com/yalpertem/samples/main/samples/",
   "hihat_crunchy": "drums/hi-hat/hihat_crunchy.wav",
   "kick_deep": "drums/kick/kick_deep.wav",
   "kick_techno_dark": "drums/kick/kick_techno_dark.wav",
